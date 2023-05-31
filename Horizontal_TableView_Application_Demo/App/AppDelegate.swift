@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  Horizontal_TableView_Application_Demo
 //
-//  Created by 준수김 on 2021/10/24.
-//
+
 
 import UIKit
 
